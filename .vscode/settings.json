@@ -1,0 +1,8 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.venvPath": "/home/amir/Documents/Projects/Django/myenv/bin/python3",
+    "python.venvFolders": [
+        "env"
+    ]
+}
